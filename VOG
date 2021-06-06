@@ -134,7 +134,7 @@ dimwishlist:item=2171478765&perks=1482024992,3142289711,3418782618,3824105627,75
 
 
 // Fatebringer
-//notes:PVP recommended roll (??? Sharditkeepit Community ???): Full Bore (MnK)|tags:Sharditkeepit Community
+//notes:PVP recommended roll: Full Bore (MKB)|tags:Sharditkeepit Community
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,47981717,684616255
 dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,47981717,684616255
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,47981717,684616255
@@ -186,7 +186,7 @@ dimwishlist:item=2171478765&perks=202670084,106909392,2450788523,1015611457,2697
 
 
 // Vision of Confluence
-//notes:: PVE recommended roll - High-Caliber Rounds (Controller)
+//notes:Sharditkeepit PVE recommended roll - High-Caliber Rounds (Controller)
 dimwishlist:item=3186018373&perks=839105230,1885400500,3418782618,1561789734,178753455
 dimwishlist:item=3186018373&perks=1482024992,1885400500,3418782618,1561789734,178753455
 dimwishlist:item=3186018373&perks=1840239774,1885400500,3418782618,1561789734,178753455
@@ -406,7 +406,7 @@ dimwishlist:item=3186018373&perks=1840239774,1087426260,3436462433,3824105627,75
 
 
 // Vision of Confluence
-//notes:sharditkeepit Community: PVP recommended roll - Barrel (MnK): Arrowhead Brake, Hammer-Forged Rifling Barrel (Controller): Smallbore, Corkscrew Rifling, Fluted Barrel
+//notes:sharditkeepit Community: PVP recommended roll - Barrel (MKB): Arrowhead Brake, Hammer-Forged Rifling Barrel (Controller): Smallbore, Corkscrew Rifling, Fluted Barrel
 dimwishlist:item=3186018373&perks=839105230,1561002382,2450788523,1015611457,684616255
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,1015611457,684616255
 dimwishlist:item=3186018373&perks=1482024992,1561002382,2450788523,1015611457,684616255
@@ -1670,7 +1670,6 @@ dimwishlist:item=471518543&perks=4090651448,1087426260,3523296417,3824105627,294
 
 // Corrective Measure
 //notes:sharditkeepit Community: PVP recommended roll 
-
 dimwishlist:item=471518543&perks=3250034553,3142289711,1359896290,1890422124,684616255
 dimwishlist:item=471518543&perks=1482024992,3142289711,1359896290,1890422124,684616255
 dimwishlist:item=471518543&perks=839105230,3142289711,1359896290,1890422124,684616255
